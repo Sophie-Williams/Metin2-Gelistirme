@@ -10,11 +10,14 @@ kolay kolay bulunamayacak dosyaları buradan paylaşacağım. Diğerlerinide lin
 
 ### VirtualBox   
 
-    Alternatiflerinide kullanabilirsiniz size kalmış. Ben ücretsiz olduğu için ve performans kaygım olmadığı videolarımda bunu kullanıyorum.
+Alternatiflerinide kullanabilirsiniz size kalmış. Ben ücretsiz olduğu ve performans kaygım olmadığı için videolarımda bunu kullanıyorum.
 
-[Site](https://www.virtualbox.org/):
+[Buradan Edinebilirsiniz...](https://www.virtualbox.org/)
 
+### WinSCP
 
+Serverimiz ile bilgisayarımız arasında dosya transferi için kullanacağız. Alternatiflerini kullanabilirsiniz, ücretsizdir, 
+windows üzerindeki sanal makinalarla daha optimize çalıştığı için ben bunu kullanacağım...
 
 
 
