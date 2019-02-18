@@ -48,7 +48,7 @@ Temiz bir metin2 kurulumu gerekmekte elinizde yoksa orjinal oyunu indirip onun y
 
 ### FreeBSD
 
-Kuracaşımız sanal makinada freebsd işletim sistemini kullanacağız. aşağıdan 7 gb dosyayı indirmenizde fayda var.
+Kuracağımız sanal makinada freebsd işletim sistemini kullanacağız. aşağıdan 7 gb dosyayı indirmenizde fayda var.
 ilerde kaynak derleme kısmına girdiğimizde hayatımızı kurtaracak.İndirmek istemezseniz FreeBSD nin kendi sitesinden 
 bir yükleme imaj dosyası indirebilirsiniz internette birçok kaynak bulunmakta onları kullanarak sanal makinanızı kurabilirsiniz.
 Kaynak derlemek için kesinlikle indirmeniz gerekiyor diye bir durum yok. Kendinizde derleme için gerekli programları
