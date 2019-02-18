@@ -43,5 +43,5 @@ işinizi görecektir...
 
 [FreeBSD 9.2 Hazır Kurulum Alternatif Link](https://drive.google.com/file/d/0BwOhT6iIgrg0c3Y3LURfRXZ2Vnc/edit)
 
-> Kullanıcı: root
-> Şifre: dev
+> **Kullanıcı**: root
+> **Şifre**: dev
