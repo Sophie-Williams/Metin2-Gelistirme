@@ -11,7 +11,6 @@ kolay kolay bulunamayacak dosyaları buradan paylaşacağım. Diğerlerinide lin
 ### VirtualBox   
 
 Alternatiflerinide kullanabilirsiniz size kalmış. Ben ücretsiz olduğu ve performans kaygım olmadığı için videolarımda bunu kullanıyorum.
-
 [Buradan Edinebilirsiniz...](https://www.virtualbox.org/)
 
 ### WinSCP
@@ -39,3 +38,6 @@ bir yükleme imaj dosyası indirebilirsiniz internette birçok kaynak bulunmakta
 Kaynak derlemek için kesinlikle indirmeniz gerekiyor diye bir durum yok. Kendinizde derleme için gerekli programları
 yükleyebilirsiniz ancak çok karışık bir işlemdir, hata yapma olasılığınız yüksek.Bu imaj dosyasında tüm programlar yüklü, birçok server filesta mevcut.
 işinizi görecektir...
+
+[FreeBSD 9.2 Hazır Kurulum] (https://mega.co.nz/#!Oc5l3Z7Q!w6mcLglOD-fbv5HRH2mfYkl9L8l1xtmE0nsDfCocNlk)
+[FreeBSD 9.2 Hazır Kurulum Alternatif Link] (https://mega.co.nz/#!Oc5l3Z7Q!w6mcLglOD-fbv5HRH2mfYkl9L8l1xtmE0nsDfCocNlk)
