@@ -41,4 +41,7 @@ işinizi görecektir...
 
 [FreeBSD 9.2 Hazır Kurulum](https://mega.co.nz/#!Oc5l3Z7Q!w6mcLglOD-fbv5HRH2mfYkl9L8l1xtmE0nsDfCocNlk)
 
-[FreeBSD 9.2 Hazır Kurulum Alternatif Link](https://mega.co.nz/#!Oc5l3Z7Q!w6mcLglOD-fbv5HRH2mfYkl9L8l1xtmE0nsDfCocNlk)
+[FreeBSD 9.2 Hazır Kurulum Alternatif Link](https://drive.google.com/file/d/0BwOhT6iIgrg0c3Y3LURfRXZ2Vnc/edit)
+
+> Kullanıcı: root
+> Şifre: dev
