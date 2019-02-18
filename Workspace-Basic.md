@@ -19,7 +19,7 @@ Serverimiz ile bilgisayarımız arasında dosya transferi için kullanacağız. 
 windows üzerindeki sanal makinalarla daha optimize çalıştığı için ben bunu kullanacağım...
 [Buradan Edinebilirsiniz...](https://winscp.net/eng/download.php)
 
-### Text Editor
+### Metin Editörü
 
 Karışık işlemlerde kullanmak amacıyla bir metin editörü edinin. windows notepad yetersiz kalıyor 
 notepad++ ya da sublime text kullanabilirsiniz başka alternatiflerde kullanabilirsiniz ben notepad++ kullanıyorum...
@@ -45,3 +45,14 @@ işinizi görecektir...
 
 > **Kullanıcı**: root
 > **Şifre**: dev
+
+### Putty
+
+Sanal makinamıza uzaktan erişim için kullanacağız aslında ilk başlarda ihtiyacımız yok ama kopyala yapıştır yapabilmeniz için
+kurmanızda fayda var ücretsizdir.Zaten ilerde uzak sunucuya geçeceğimizden o zaman mecbur olarak kullanacağız...
+
+##Gerekli Dosyalar:
+
+###Metin2
+
+Temiz bir metin2 kurulumu gerekmekte elinizde yoksa orjinal oyunu indirip onun yamalarını yaptıktan sonra o klasörü kullanabilirsiniz...
