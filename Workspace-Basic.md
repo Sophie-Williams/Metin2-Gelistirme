@@ -50,9 +50,12 @@ işinizi görecektir...
 
 Sanal makinamıza uzaktan erişim için kullanacağız aslında ilk başlarda ihtiyacımız yok ama kopyala yapıştır yapabilmeniz için
 kurmanızda fayda var ücretsizdir.Zaten ilerde uzak sunucuya geçeceğimizden o zaman mecbur olarak kullanacağız...
+[Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
-##Gerekli Dosyalar:
 
-###Metin2
+## Gerekli Dosyalar:
+
+### Metin2
 
 Temiz bir metin2 kurulumu gerekmekte elinizde yoksa orjinal oyunu indirip onun yamalarını yaptıktan sonra o klasörü kullanabilirsiniz...
+[Buradan indirebilirsiniz...](https://tr.metin2.gameforge.com/main/download)
