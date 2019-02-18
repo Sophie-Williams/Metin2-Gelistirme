@@ -26,12 +26,12 @@ Karışık işlemlerde kullanmak amacıyla bir metin editörü edinin. windows n
 notepad++ ya da sublime text kullanabilirsiniz başka alternatiflerde kullanabilirsiniz ben notepad++ kullanıyorum...
 [Notepad++](https://notepad-plus-plus.org/)
 
-###Navicat 
+### Navicat 
 
 Veritabanı işlerinde kullanacağımız program ücretlidir deneme sürümünü ya da ücretsiz alternatiflerini kullanabilirsiniz.
 [Navicat](https://www.navicat.com/en/)
 
-###FreeBSD
+### FreeBSD
 
 Kuracaşımız sanal makinada freebsd işletim sistemini kullanacağız. aşağıdan 7 gb dosyayı indirmenizde fayda var.
 ilerde kaynak derleme kısmına girdiğimizde hayatımızı kurtaracak.İndirmek istemezseniz FreeBSD nin kendi sitesinden 
