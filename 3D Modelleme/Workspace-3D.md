@@ -7,6 +7,7 @@ Metin 2 için 3D modelleme üzerine yapacağımız işlemler için kullanacağı
 ### 3dsmax 7 
 Kesinlikle elinizde olması gereken bir program çünkü granny exporter versiyonu en uyumlu olan program şu an için bu detaylı bilgileri video üzerinden öğrenebilirsiniz.
 [Buradan Edinebilirsiniz...](https://drive.google.com/open?id=1qDkjo0nPab07z-t1cndkkBhoLDARiR2n){:target="_blank"}
+<a href="http://example.com/" target="_blank">example</a>
 
 ### Yüksek sürüm 3dsmax
 
