@@ -20,6 +20,8 @@ GR2 modellerini görüntülemek için kullanacağız kesinlikle elinizde olması
 ### Grafik Editörü
 
 Ben Adobe Photoshop kullanıyorum ücretlidir. Ücretsiz alternatiflerini de kullanabilirsiniz.DDS plugini bulunan bir program olması iyi olacaktır.Ayrıca TGA uzantılı dosyalarda çalışma yapabilmesi lazım…
+Photoshop için DDS Pluginini[Buradan indirebilirsiniz...](https://developer.nvidia.com/gameworksdownload#?dn=texture-tools-for-adobe-photoshop-8-55)
+
 
 ### Basit Çalışma Ortamı
 
@@ -34,15 +36,15 @@ Birçok işlem için kullanacağız. Başarılı şekilde çalıştırabilmeniz 
 3Dsmax programı üzerinde kullanacağımız scriptler bulunmakta uzun uzun buraya yazmayacağım videolarda kullandığımızda öğrenirsiniz ne iş yaptıklarını…[Buradan Edinebilirsiniz...](DÜZENLE)
 
 ### 3.Parti programlar
-Bazı developer arkadaşlarımızın kodladığı bir kaç program bulunmakta onlarda işimizi kolaylaştıracak bunlarıda arşiv olarak vereceğim videolar üzerinden öğrenebilirsiniz ne işe yaradıklarını. Bazıları antivirüs yazılımları tarafından tehlikeli algılanabilir. Kullanıp kullanmamak size kalmış…[Buradan Edinebilirsiniz...](DÜZENLE)
+Bazı developer arkadaşlarımızın kodladığı bir kaç program bulunmakta onlarda işimizi kolaylaştıracak bunlarıda arşiv olarak vereceğim videolar üzerinden öğrenebilirsiniz ne işe yaradıklarını. Bazıları antivirüs yazılımları tarafından tehlikeli algılanabilir. Kullanıp kullanmamak size kalmış…[Buradan Edinebilirsiniz...USGranny](DÜZENLE)
 
-###Granny Reader
+### Granny Reader
 
-Gr2 uzantılı dosyaları okuyarak 3dsmax içinde kullanılabilecek scriptleri çıkartan bir programdır elinizde bulunsun...Çok işimize yarayacak ilerde…
+Gr2 uzantılı dosyaları okuyarak 3dsmax içinde kullanılabilecek scriptleri çıkartan bir programdır elinizde bulunsun...Çok işimize yarayacak ilerde…USGranny
 
 # EXPORTERS
 
-Geldik önemli noktaya. Uzun uzun yazmayacağım zaten detaylı şekilde videoda anlattım. Elimdeki warez tüm exporterları vereceğim...[Buradan Edinebilirsiniz...](DÜZENLE)
+Geldik önemli noktaya. Uzun uzun yazmayacağım zaten detaylı şekilde videoda anlattım. Elimdeki warez tüm exporterları vereceğim...[Buradan Edinebilirsiniz...USGranny](DÜZENLE)
 
 
 
