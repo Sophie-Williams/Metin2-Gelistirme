@@ -34,17 +34,17 @@ Birçok işlem için kullanacağız. Başarılı şekilde çalıştırabilmeniz 
 
 ### Scriptler 
 
-3Dsmax programı üzerinde kullanacağımız scriptler bulunmakta uzun uzun buraya yazmayacağım videolarda kullandığımızda öğrenirsiniz ne iş yaptıklarını…[Buradan Edinebilirsiniz...](https://drive.google.com/open?id=1cd-hfi3Qn9x4OL0Q0vb1ER6Nne-wIyHd)
+3Dsmax programı üzerinde kullanacağımız scriptler bulunmakta uzun uzun buraya yazmayacağım videolarda kullandığımızda öğrenirsiniz ne iş yaptıklarını…[Buradan Edinebilirsiniz...](https://drive.google.com/open?id=1d3h6xdl8Gu8dmq_m1qRjKdrCCdYXEOKv)
 
-### 3.Parti programlar
-Bazı developer arkadaşlarımızın kodladığı bir kaç program bulunmakta onlarda işimizi kolaylaştıracak bunlarıda arşiv olarak vereceğim videolar üzerinden öğrenebilirsiniz ne işe yaradıklarını. Bazıları antivirüs yazılımları tarafından tehlikeli algılanabilir. Kullanıp kullanmamak size kalmış…[Buradan Edinebilirsiniz...USGranny](https://drive.google.com/open?id=1X6etrDE3yVYv0Fdtfh0ngR3U5_mh3NP4)
+### Conventers
+Bazı developer arkadaşlarımızın kodladığı bir kaç program bulunmakta onlarda işimizi kolaylaştıracak bunlarıda arşiv olarak vereceğim videolar üzerinden öğrenebilirsiniz ne işe yaradıklarını. Bazıları antivirüs yazılımları tarafından tehlikeli algılanabilir. Kullanıp kullanmamak size kalmış…[Buradan Edinebilirsiniz...USGranny](https://drive.google.com/open?id=1aDxUlLnyg1cSIP3wiqMLLqkgPWbMTVuy)
 
 ### Granny Reader
 
-Gr2 uzantılı dosyaları okuyarak 3dsmax içinde kullanılabilecek scriptleri çıkartan bir programdır elinizde bulunsun...Çok işimize yarayacak ilerde…[Buradan Edinebilirsiniz...USGranny](https://drive.google.com/open?id=1X6etrDE3yVYv0Fdtfh0ngR3U5_mh3NP4)
+Gr2 uzantılı dosyaları okuyarak 3dsmax içinde kullanılabilecek scriptleri çıkartan bir programdır elinizde bulunsun...Çok işimize yarayacak ilerde…[Buradan Edinebilirsiniz...](https://drive.google.com/open?id=1WyXevyiCkbxrJQhn9rqQmWPqGEKxaOXH)
 # EXPORTERS
 
-Geldik önemli noktaya. Uzun uzun yazmayacağım zaten detaylı şekilde videoda anlattım. Elimdeki warez tüm exporterları vereceğim...[Buradan Edinebilirsiniz...USGranny](https://drive.google.com/open?id=1X6etrDE3yVYv0Fdtfh0ngR3U5_mh3NP4)
+Geldik önemli noktaya. Uzun uzun yazmayacağım zaten detaylı şekilde videoda anlattım. Elimdeki warez tüm exporterları vereceğim...[Buradan Edinebilirsiniz...](https://drive.google.com/open?id=1Ui5qSM7qKhbnH7BGVv23R2QWfXDz6BIZ)
 
 
 
